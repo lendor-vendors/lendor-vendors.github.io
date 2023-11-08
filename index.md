@@ -94,3 +94,5 @@ The project was broken down into a set of issues and each issue was documented i
 * [Truman Choy](https://choytr.github.io/)
 * [Marcus Prudencio](https://marcusp478.github.io/)
 * [Kayla Yanos](https://kaylayanos.github.io/)
+### Team Contract
+This is the [contract](https://docs.google.com/document/d/1NaDirEUvLssdwOibyXWChI3mM2_KJonmv6Q50NxB768/edit) that we wrote up to keep each other accountable.
