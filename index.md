@@ -1,4 +1,3 @@
-# Lendor Vendors
 ## Overview
 Lendor Vendors is a web application that allows users to list and view their own items for loan. Users can also view other users' items and request to borrow them. It features a rating system for both parties to rate each other, promoting user interactions and trust. 
 ## User Guide
