@@ -1,5 +1,7 @@
 ## Overview
 Lendor Vendors is a web application that allows users to list and view their own items for loan. Users can also view other users' items and request to borrow them. It features a rating system for both parties to rate each other, promoting user interactions and trust. 
+### Team Contract
+This is the [contract](https://docs.google.com/document/d/1NaDirEUvLssdwOibyXWChI3mM2_KJonmv6Q50NxB768/edit) that we wrote up to keep each other accountable.
 ## User Guide
 This section provides a walkthrough of the Lendor Vendor's user interface and it's capabilities.
 ### Landing Page
@@ -88,8 +90,6 @@ The development process for Lendor Vendors conformed to Issue Driven Project Man
 
 The project was broken down into a set of issues and each issue was documented in a GitHub issue.  Issues were assigned to team members and the team members created branches named "issue-xxx" where xxx is the issue number to work on.  When the work was complete, the team members merged that branch into the master branch.
 ## Contact Us
-### Team Contract
-This is the [contract](https://docs.google.com/document/d/1NaDirEUvLssdwOibyXWChI3mM2_KJonmv6Q50NxB768/edit) that we wrote up to keep each other accountable.
 ### Developers
 * [Jiawen Chen](https://jchen20-1.github.io/)
 * [Truman Choy](https://choytr.github.io/)
