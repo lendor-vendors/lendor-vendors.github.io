@@ -51,10 +51,15 @@ The request item page is where users can request to borrow other users' items.
 
 ![](doc/requestItem.png)
 
+### Requests Page
+The Requests page shows you all the incoming requests you have for your items, as well as any outgoing requests you have made for others' items.
+
+![](doc/viewRequests.png)
+
 ### Fulfill Request
 The fulfill request page is where users can fulfill other users' requests to borrow their items.
 
-![](doc/fulfillItem.jpg)
+![](doc/requestDetails.png)
 
 ### Rate Items and Users
 Users can rate items that they have borrowed before, to let others know how good it was to use, as well as add comments to the rating.
@@ -111,7 +116,7 @@ For M2, we plan on styling the landing page, as well as other main pages, creati
 Our M2 Project Page can be found [here](https://github.com/orgs/lendor-vendors/projects/6).
 
 ## Deployment
-This project is deployed at [](http://159.223.203.208/)
+This project is deployed [here](http://159.223.203.208/).
 ## Contact Us
 ### Developers
 * [Jiawen Chen](https://jchen20-1.github.io/)
