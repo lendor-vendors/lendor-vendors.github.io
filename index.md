@@ -7,41 +7,49 @@ This section provides a walkthrough of the Lendor Vendor's user interface and it
 ### Landing Page
 The landing page is the site presented to users when they visit the top-level URL of the site.
 
-![](doc/Landing.jpg)
+![](doc/Landing.png)
 
 ### Register
 If you don't already have an account, you can register and sign up for one.
 
-![](doc/signup.jpg)
+![](doc/signup.png)
 
 ### Log in
 If you already have an account, you can sign in.
 
-![](doc/signin.jpg)
+![](doc/signin.png)
 
 ### Gallery
 The gallery page is where users can view all the items that are available for loan.
 
-![](doc/gallery.jpg)
-
-### List Item
-The list item page is where users can list their own items for loan.
-
-![](doc/listItem.jpg)
+![](doc/gallery.png)
 
 ### Add Item
 The add item page is where users can add their own items for loan.
 
-![](doc/addItem.jpg)
+![](doc/addItem.png)
+### List Item
+The list item page is where users can list their own items they currently have posted for loan.
+
+![](doc/listItem.png)
+
+The user can also click the item name itself to get a better description and view of the item, where they can choose to edit the item, as well as view the requests for that item.
+
+![](doc/viewItem.png)
+
+If that item is not owned by the user, you'll see the button to request to loan the item. 
+
+![](doc/viewOthersItems.png)
+
 ### Edit Item
 The edit item page is where users can edit their own items for loan.
 
-![](doc/editItem.jpg)
+![](doc/editItem.png)
 
 ### Request Item
 The request item page is where users can request to borrow other users' items.
 
-![](doc/requestItem.jpg)
+![](doc/requestItem.png)
 
 ### Fulfill Request
 The fulfill request page is where users can fulfill other users' requests to borrow their items.
@@ -89,6 +97,9 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 The development process for Lendor Vendors conformed to Issue Driven Project Management practices. 
 
 The project was broken down into a set of issues and each issue was documented in a GitHub issue.  Issues were assigned to team members and the team members created branches named "issue-xxx" where xxx is the issue number to work on.  When the work was complete, the team members merged that branch into the master branch.
+
+## Deployment
+This project is deployed at [](http://159.223.203.208/)
 ## Contact Us
 ### Developers
 * [Jiawen Chen](https://jchen20-1.github.io/)
