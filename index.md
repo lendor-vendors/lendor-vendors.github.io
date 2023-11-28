@@ -2,6 +2,13 @@
 Lendor Vendors is a web application that allows users to list and view their own items for loan. Users can also view other users' items and request to borrow them. It features a rating system for both parties to rate each other, promoting user interactions and trust.
 
 ## Table of Contents
+* [Team Contract](#team-contract)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+* [Deployment](#deployment)
+* [Contact Us](#contact-us)
 
 ### Team Contract
 This is the [contract](https://docs.google.com/document/d/1NaDirEUvLssdwOibyXWChI3mM2_KJonmv6Q50NxB768/edit) that we wrote up to keep each other accountable.
@@ -144,7 +151,9 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 ## Development History
-The development process for Lendor Vendors conformed to Issue Driven Project Management practices. 
+![ci-badge](https://github.com/lendor-vendors/lendor-vendors/workflows/Lendor-Vendors/badge.svg)
+
+The development process for Lendor-Vendors conformed to Continuous Integration and Issue Driven Project Management practices. 
 
 The project was broken down into a set of issues and each issue was documented in a GitHub issue.  Issues were assigned to team members and the team members created branches named "issue-xxx" where xxx is the issue number to work on.  When the work was complete, the team members merged that branch into the master branch.
 
