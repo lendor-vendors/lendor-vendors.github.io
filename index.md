@@ -178,7 +178,7 @@ Nearing the end of the finish line, the idea for M3 will be to polish the websit
 Our M3 Project Page can be found [here](https://github.com/orgs/lendor-vendors/projects/7).
 
 ## Deployment
-This project is deployed [here](http://159.223.203.208/).
+This project is deployed [here](http://lendor-vendors.xyz/).
 ## Contact Us
 ### Developers
 * [Jiawen Chen](https://jchen20-1.github.io/)
