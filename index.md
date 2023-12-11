@@ -19,12 +19,8 @@ This section provides a walkthrough of the Lendor Vendor's user interface and it
 ### Landing Page
 The landing page is the site presented to users when they visit the top-level URL of the site.
 
-<<<<<<< Updated upstream
-![](doc/landing.png)
-=======
 ![](doc/Landing.png)
 ![](doc/Landing2.png)
->>>>>>> Stashed changes
 
 ### Register
 If you don't already have an account, you can register and sign up for one.
@@ -37,30 +33,6 @@ If you already have an account, you can sign in.
 ![](doc/signin.png)
 
 ### Gallery
-<<<<<<< Updated upstream
-The gallery page is where users can view all the items that are available for loan. Users can also search for an item by its name.
-
-![](doc/gallery.png)
-
-### Your Items
-The your items page is where users can list their own items they currently have posted that are available to loan.
-
-![](doc/yourItems.png)
-
-The user can also click the item itself to get a better description and view of the item, where they can choose to edit the item, as well as view any requests for that item.
-
-![](doc/viewItem.png)
-
-If you click on an item from the gallery that you don't own, you'll see the button to request to loan the item instead. 
-
-![](doc/viewOtherUsersItem.png)
-
-### Post Item
-The post item page is where users can post their own items for loaning out. Users can describe the item(s) they are posting, give how many are available and their conditions, and provide a url to an image of the items.
-
-![](doc/postItem.png)
-
-=======
 The gallery page is where users can view all the items that are available for loan. 
 
 ![](doc/gallery.png)
@@ -73,8 +45,8 @@ Users can sort the items based on when they were posted, either in ascending or 
 
 ![](doc/ascending.png)
 
-### Add Item
-The add item page is where users can add their own items for loan.
+### Post Item
+The post item page is where users can add their own items for loan.
 
 ![](doc/postItem.png)
 
@@ -104,9 +76,8 @@ When choosing to delete, users will get a pop up confirmation to make sure they 
 
 If that item is not owned by the user, you'll see the button to request to borrow the item. 
 
-![](doc/viewItem.png)
+![](doc/requestItem.png)
 
->>>>>>> Stashed changes
 ### Edit Item
 Once you click on the "Edit" button, you will be taken to the edit item page. The edit item page is where users can edit their own posted items.
 
@@ -117,64 +88,25 @@ Once you click the "Request To Borrow" button, you will be taken to the request 
 
 ![](doc/requestItem.png)
 
-### Your Notifications
-
-Once a user requests your item, you will receive a notification about it. You can view all your past notifications in the your notifications page.
-
-![](doc/yourNotifications.png)
 
 ### Requests Page
 The Requests page shows you all the incoming requests you have for your items, as well as any outgoing requests you have made for others' items.
 
-![](doc/requests.png)
-<<<<<<< Updated upstream
-
-### View Requests
-The view requests page is where users can accept or deny other users' requests to borrow their item.
-
-![](doc/viewRequests.png)
-
-### Forums
-
-If you can't find what you're looking for in the gallery, you can make a forum post in hopes that someone has the item you're looking for.
-
-![](doc/forums.png)
-
-### View Forum Request
-
-You can click on a forum post to view it in full detail. If you have the item the poster is looking for, you can contact them by clicking "Fulfill," which will send a notification to the poster containing your contact information so the item exchange can take place.
-
-![](doc/viewForumRequest.png)
-
-If it is your own post, you can delete it or mark it as resolved if you no longer need the item, or if someone has since loaned it to you.
-
-![](doc/viewOwnForumRequest.png)
-
-### Post Forum Request
-
-Once you click the "Post a forum request" button from the forums page, you will be taken to the post forum request page. The post forum request page is where you can describe the item you want, give a minimum quantity and condition, and post it.
-
-![](doc/postForumRequest.png)
-
-### View Profile
-
-Users can view the profiles of other users by clicking on their profiles from viewing an item or a forum post.
-
-![](doc/viewProfile.png)
-
-### Rate Items and Users
-Users can rate users that they have borrowed before, to let others know how good it was to use, as well as add comments to the rating.
-=======
+![](doc/yourRequests.png)
 
 In the requests for your items tab, multiple people can make requests for the same item, so the user can choose to accept or deny each request individually.
+
 ![](doc/forRequests.png)
 
 ### Forums Page
 
 The forums page is where users can post forums where they're requesting any items they don't see up for loan.
->>>>>>> Stashed changes
 
 ![](doc/allForums.png)
+
+Users can sort the forum posts by resolved, unresolved, or all
+
+![](doc/resolvedForums.png)
 
 All users are allowed to post a forum post, and you can see your own posts by selecting the appropriate tab.
 
@@ -234,19 +166,10 @@ Just like with our gallery and your items page, you can navigate through the dif
 ![](doc/notificationsPagination.png)
 
 ### Admin
-<<<<<<< Updated upstream
-Admins are able to remove any item posts they deem inappropriate.
 
-![](doc/galleryAdmin.png)
-
-They are also to remove any forum posts they deem inappropriate.
-
-![](doc/viewForumRequestAdmin.png)
-=======
 When admins are logged in, they see an extra delete button even in items they don't own, so they can properly delete items that violate the terms of service.
 
 ![](doc/adminViewItem.png)
->>>>>>> Stashed changes
 
 ## Community Feedback
 If you would like to provide feedback on this project, please fill out [this form](https://lendor-vendors.github.io/). Thank you!
@@ -317,21 +240,13 @@ Our M2 Project Page can be found [here](https://github.com/orgs/lendor-vendors/p
 
 ### M3
 
-<<<<<<< Updated upstream
-Nearing the end of the finish line, the idea for M3 will be to polish the website as much as possible. We plan to focus on pushing out bug fixes, finishing up leftover functionality updates like implementing review writing, and overhaul a few pages, particularly the landing and request-related pages.
-
-Our M3 Project Page can be found [here](https://github.com/orgs/lendor-vendors/projects/7).
-
-## Deployment
-This project is deployed [here](http://lendor-vendors.xyz/).
-=======
 For M3, we plan on completely revamping most of the pages we have with better styling and quality of life functionalities. We plan to implement some sort of pagination feature for our pages that can display a lot of items/data, to better allow our users to easily navigate through them. We also want to implement a back button on certain pages that are routed after clicking on certain elements on existing pages, so our users can have an easier time going back and forth between pages. We also want to incorporate a forums page, where users can post requests for items they don't see up for loan, and other users can help fulfill them. Finally, we want to add a notifications system, so our users are better notified when their items are requested, if their requests got accepted or denied, as well as if someone helped fulfill their forum posts. 
 
 Our M3 Project page can be found [here](https://github.com/orgs/lendor-vendors/projects/7)
 
 ## Deployment
 This project is deployed [here](http://lendor-vendors.xyz).
->>>>>>> Stashed changes
+
 ## Contact Us
 ### Developers
 * [Jiawen Chen](https://jchen20-1.github.io/)
